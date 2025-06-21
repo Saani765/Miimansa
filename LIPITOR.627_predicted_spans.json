@@ -1,0 +1,50 @@
+[
+  [
+    "Symptom",
+    54,
+    58,
+    "pain"
+  ],
+  [
+    "ADR",
+    54,
+    58,
+    "pain"
+  ],
+  [
+    "Symptom",
+    63,
+    77,
+    "loss of muscle"
+  ],
+  [
+    "ADR",
+    63,
+    77,
+    "loss of muscle"
+  ],
+  [
+    "Symptom",
+    205,
+    217,
+    "able to work"
+  ],
+  [
+    "ADR",
+    205,
+    217,
+    "able to work"
+  ],
+  [
+    "Symptom",
+    235,
+    242,
+    "bitlity"
+  ],
+  [
+    "ADR",
+    235,
+    242,
+    "bitlity"
+  ]
+]

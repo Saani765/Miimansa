@@ -1,0 +1,11 @@
+Project: Medical Named Entity Recognition and Linking
+
+This project extracts medical entities from forum posts and links them to medical codes.
+
+Workflow:
+1.  **Entity Enumeration**: Analyzes entity types and frequencies in the CADEC dataset.
+2.  **NER with a Pre-trained Model**: Uses a Hugging Face model to identify Drugs, Diseases, Symptoms, and ADRs.
+3.  **Standard Evaluation**: Measures NER performance with strict matching (exact text and label).
+4.  **ADR-focused Evaluation**: Evaluates ADR detection against MedDRA annotations.
+5.  **Relaxed Evaluation**: Uses a more flexible evaluation metric, allowing for partial span overlaps.
+6.  **Entity Linking**: Links detected ADRs to SNOMED-CT codes using fuzzy matching and sentence embeddings. 

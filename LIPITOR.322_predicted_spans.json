@@ -1,0 +1,50 @@
+[
+  [
+    "Symptom",
+    0,
+    15,
+    "muscle weakness"
+  ],
+  [
+    "ADR",
+    0,
+    15,
+    "muscle weakness"
+  ],
+  [
+    "Disease",
+    120,
+    127,
+    "fibromy"
+  ],
+  [
+    "Symptom",
+    127,
+    132,
+    "algia"
+  ],
+  [
+    "ADR",
+    127,
+    132,
+    "algia"
+  ],
+  [
+    "Symptom",
+    195,
+    218,
+    "disabilitating symptoms"
+  ],
+  [
+    "ADR",
+    195,
+    218,
+    "disabilitating symptoms"
+  ],
+  [
+    "ADR",
+    422,
+    430,
+    "1/2 hour"
+  ]
+]

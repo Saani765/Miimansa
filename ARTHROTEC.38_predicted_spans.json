@@ -1,0 +1,44 @@
+[
+  [
+    "Symptom",
+    49,
+    61,
+    "constipation"
+  ],
+  [
+    "ADR",
+    49,
+    61,
+    "constipation"
+  ],
+  [
+    "ADR",
+    79,
+    100,
+    "excessive hot flashes"
+  ],
+  [
+    "Symptom",
+    119,
+    126,
+    "blurred"
+  ],
+  [
+    "ADR",
+    119,
+    126,
+    "blurred"
+  ],
+  [
+    "Symptom",
+    295,
+    299,
+    "pain"
+  ],
+  [
+    "ADR",
+    295,
+    299,
+    "pain"
+  ]
+]

@@ -1,0 +1,38 @@
+[
+  [
+    "Symptom",
+    5,
+    6,
+    "dr"
+  ],
+  [
+    "Symptom",
+    12,
+    13,
+    "blurred"
+  ],
+  [
+    "ADR",
+    27,
+    28,
+    "art"
+  ],
+  [
+    "Disease",
+    51,
+    52,
+    "arthritis"
+  ],
+  [
+    "Symptom",
+    108,
+    109,
+    "pains"
+  ],
+  [
+    "ADR",
+    121,
+    124,
+    "t have that"
+  ]
+]

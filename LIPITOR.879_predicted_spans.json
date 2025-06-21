@@ -1,0 +1,20 @@
+[
+  [
+    "Symptom",
+    0,
+    6,
+    "fluids"
+  ],
+  [
+    "ADR",
+    0,
+    6,
+    "fluids"
+  ],
+  [
+    "Disease",
+    110,
+    130,
+    "rheumatoid arthritis"
+  ]
+]
